@@ -1,0 +1,24 @@
+{
+  "name": "Kasir POS Tius System",
+  "short_name": "Kasir POS",
+  "description": "Aplikasi Kasir Point of Sale oleh Tius",
+  "start_url": "/Tius-Pos-Kasir-PWA/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#212529",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/Tius-Pos-Kasir-PWA/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Tius-Pos-Kasir-PWA/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
